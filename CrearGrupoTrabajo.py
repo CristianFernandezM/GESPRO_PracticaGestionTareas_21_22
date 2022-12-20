@@ -1,0 +1,1 @@
+# Aquí iría el código relacionado con la creación de grupos de trabajo.
