@@ -1,0 +1,1 @@
+# Aqui iría el código relacionado con la funcion del logOut
