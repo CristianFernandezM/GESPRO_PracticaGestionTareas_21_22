@@ -1,0 +1,1 @@
+# Aquí iria el código de creación de la lista de amigos
