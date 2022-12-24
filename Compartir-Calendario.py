@@ -1,0 +1,1 @@
+# Aquí iría el código relacionado de compartir calendario
