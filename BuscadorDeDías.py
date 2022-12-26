@@ -1,0 +1,1 @@
+# Aquí iría el código relacionado con el buscador de días
